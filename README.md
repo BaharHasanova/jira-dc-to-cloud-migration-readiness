@@ -1,4 +1,4 @@
-## Jira Cloud CSV Migration Simulation
+## Jira Cloud Migration Simulation
 
 This project includes a Jira Cloud CSV migration simulation report documenting:
 
